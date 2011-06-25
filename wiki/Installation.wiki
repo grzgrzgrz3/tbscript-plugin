@@ -1,12 +1,12 @@
 #summary Installation instructions for the add-on.
 = Prerequisites =
-* Thunderbird
+  * Thunderbird
 
 = PyXPComExt =
 Download PyXPCOMExt from the project's site, and get it installed in Thunderbird.
-* http://pyxpcomext.mozdev.org/downloads.html (Choose proper version based on OS)
-* (From Thunderbird) Tools->Add-ons->Install
+  * http://pyxpcomext.mozdev.org/downloads.html (Choose proper version based on OS)
+  * (From Thunderbird) Tools->Add-ons->Install
 
 = TBScript =
-* Download or compile xpi.
-* (From Thunderbird) Tools->Add-ons->Install
+  * Download or compile xpi.
+  * (From Thunderbird) Tools->Add-ons->Install
