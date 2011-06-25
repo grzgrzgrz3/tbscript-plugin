@@ -8,5 +8,5 @@ Download PyXPCOMExt from the project's site, and get it installed in Thunderbird
   * (From Thunderbird) Tools->Add-ons->Install
 
 = TBScript =
-  * Download or compile xpi.
+  * [http://code.google.com/p/tbscript-plugin/downloads/list Download] or compile xpi file.
   * (From Thunderbird) Tools->Add-ons->Install
